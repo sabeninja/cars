@@ -18,7 +18,6 @@ do
 			echo "$year:$make:$model" >> My_old_cars
 			;;
 		"2") sort My_old_cars
-			cat My_old_cars
 			;;
 		"3") echo "Goodbye"
 			;;
