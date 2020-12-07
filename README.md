@@ -1,3 +1,9 @@
+## Identifying Information:
+1. Name:  Shuntaro Steven Abe
+2. Student ID: 2377370
+3. Email: sabe@chapman.edu
+4. Class: CPSC-298-01
+5. Assignment: cars
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
